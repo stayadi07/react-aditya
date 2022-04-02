@@ -10,7 +10,7 @@ return(
   <div className="container"> 
   <img src= {employee.profileImg} alt="avatar"/>
   <h1>{employee.name}</h1>
-
+  
   <div className='main'>
     <p><b> Location</b></p>
     <h2>{employee.location}</h2>
