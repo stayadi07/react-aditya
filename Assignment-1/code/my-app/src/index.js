@@ -11,6 +11,7 @@ const App = () => {
       <Yellow />
       <Red />
       <Blue />
+      
     </div>
   );
 };
