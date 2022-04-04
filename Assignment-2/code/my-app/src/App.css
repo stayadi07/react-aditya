@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+.container{
+  background-color: rgb(250, 253, 204);
+  padding: 15px;
+  border-radius: 8px;
+  width: fit-content;
+  margin:15px;
+  border: 3px solid rgb(255, 2, 158)
+}
+h1{
+  color: blue;
+  font-size: 7vh;
+}
+
+h2{
+  margin: 0px 0px;;
+  font-size: 4vh;
+}
+p{
+  color: rgb(95, 95, 95);
+}
+img{
+  border-radius: 15px ;
+}
