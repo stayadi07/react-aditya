@@ -7,14 +7,14 @@ import reportWebVitals from './reportWebVitals';
 const employee= {
   name: "Alan Ford",
   id: "00005152",
-  appointedOn: 1348896220039,
+  appointedOn: "9:00 (24-05-2016)",
   email: "alan.form@email.nl",
   phone: "+311123456789",
   status: "Inprogress",
   door: "Mark",
-  time: 1643896220039,
+  time: "10:30 (25-05-2016)",
   image: "https://www.w3schools.com/howto/img_avatar.png",
-  role: "Boltaart Bosbessen",
+  desig: "Boltaart Bosbessen",
   summary: "Some relevant details is provided " 
 }
 
